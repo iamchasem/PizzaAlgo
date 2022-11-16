@@ -1,0 +1,5 @@
+Step 1: decide where to order pizza from
+Step 2: decide what type of pizza to order 
+Step 3: order your pizza
+Step 4: eat your pizza
+Step 5: throw the box away
